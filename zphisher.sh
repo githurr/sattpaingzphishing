@@ -30,14 +30,19 @@ fi
 banner() {
 
 clear
-printf "      \e[33;1m sat
-printf "      \e[33;1m|    sat       satpaing phyoe
-printf "      \e[33;1m           sat                    sattpaing
-printf "      \e[32;1m        sat                        satpaing
-printf "      \e[32;1m /     satpaingphyoe
+printf "      \e[33;1m 
+
+printf "      \e[33;1m|  
+printf "      \e[33;1m    ╔═╗──╔╗╔╗─────╔╗
+                          ║═╬═╗║╚╣╚╦═╦═╗╠╬═╦╦═╗
+                          ╠═║╬╚╣╔╣╔╣╬║╬╚╣║║║║╬║
+                          ╚═╩══╩═╩═╣╔╩══╩╩╩═╬╗║
+                          ─────────╚╝───────╚═╝
+printf "      \e[32;1m
+printf "      \e[32;1m / 
 printf "      \e[32;1m/
-printf "      \e[33;1m       sat       satpaing phyoe
-printf "      \e[33;1m      sat       satpaing phyoe
+printf "      \e[33;1m     
+printf "      \e[33;1m   
 printf "\n"
 printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by htr-tech (tahmid.rayat)\e[0m\n"
 printf "\n"
