@@ -9,8 +9,7 @@ user_interrupt(){
         printf "\e[0m\e[1;36m\t Exiting !!\n"
         sleep 2
         printf "\e[0m\n"
-        exit 1
-}
+        exit 1}
 
 stop() {
 
