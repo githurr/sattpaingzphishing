@@ -30,21 +30,24 @@ fi
 banner() {
 
 clear
-printf "      \e[33;1m 
+printf "      \e[33;1m                     
+                            \e[0m\n"
+┏━━━┓╋╋┏┓╋┏┓                                          
+┃┏━┓┃╋┏┛┗┳┛┗┓
+printf "      \e[33;1m                                                                 ┃┗━━┳━┻┓┏┻┓┏╋━━┳━━┳┳━┓┏━━┓                                      ┗━━┓┃┏┓┃┃╋┃┃┃┏┓┃┏┓┣┫┏┓┫┏┓┃                                     ┃┗━┛┃┏┓┃┗┓┃┗┫┗┛┃┏┓┃┃┃┃┃┗┛┃
+┗━━━┻┛┗┻━┛┗━┫┏━┻┛┗┻┻┛┗┻━┓┃
+╋╋╋╋╋╋╋╋╋╋╋╋┃┃╋╋╋╋╋╋╋╋┏━┛┃
+╋     
+\e[0m\n"
 
-printf "      \e[33;1m|  
-printf "      \e[33;1m    ╔═╗──╔╗╔╗─────╔╗
-                          ║═╬═╗║╚╣╚╦═╦═╗╠╬═╦╦═╗
-                          ╠═║╬╚╣╔╣╔╣╬║╬╚╣║║║║╬║
-                          ╚═╩══╩═╩═╣╔╩══╩╩╩═╬╗║
-                          ─────────╚╝───────╚═╝
-printf "      \e[32;1m
-printf "      \e[32;1m / 
-printf "      \e[32;1m/
-printf "      \e[33;1m     
-printf "      \e[33;1m   
+printf "      \e[33;1m                                                          \e[0m\n"
+printf "      \e[32;1m  \e[33;1m                                        \e[0m\n"
+printf "      \e[32;1m                                                          \e[0m\n"
+printf "      \e[32;1m                                                          \e[0m\n"
+printf "      \e[33;1m                                                           \e[0m\n"
+printf "      \e[33;1m              \e[1;97m    Version 2.1 Beta      \e[0m\n"
 printf "\n"
-printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by htr-tech (tahmid.rayat)\e[0m\n"
+printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by Sattpaingphyoe\e[0m\n"
 printf "\n"
 
 }
