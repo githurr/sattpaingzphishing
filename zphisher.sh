@@ -1,7 +1,7 @@
 #!/bin/bash
 
 trap 'printf "\n";stop;exit 1' 2
-trap user_interrupt SIGINT
+trap user_interrupt 
 trap user_interrupt SIGTSTP
 
 user_interrupt(){
